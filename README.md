@@ -1,4 +1,7 @@
 # 2DAdventureGame
+
+##Due to issues, compatibility and time restraint, This project is now Abandoned!
+
 ## Project Overview
 
 In this tutorial, we will begin a completely new project; specifically, a 2D adventure game in which the player controls an alien character, exploring and navigating a dangerous world complete with quests and interactive elements.
