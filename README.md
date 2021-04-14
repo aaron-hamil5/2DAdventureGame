@@ -1,6 +1,6 @@
 # 2DAdventureGame
 
-##Due to issues, compatibility and time restraint, This project is now Abandoned!
+## Due to issues, compatibility and time restraint, This project is now Abandoned!
 
 ## Project Overview
 
